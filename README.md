@@ -5,10 +5,10 @@
 Pra instalar, basta acessar a página de [downloads](https://git-scm.com/downloads) e seguir as instruções\
 Pra se conectar, utilize os seguinte comandos: <sub>(Substitua o nome e o e-mail para o seu)<sub/>
 ```
-git config --global user.name "Darlanzinho"
+git config --global user.name "Nome"
 ```
 ```
-git config --global user.email darlanzinho@codejr.com
+git config --global user.email email@codejr.com
 ```
 
 ## Começar um projeto
